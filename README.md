@@ -1,6 +1,6 @@
 # Mneumocure™ — Patent Commons White Paper (v4.2)
 
-**Title:** A Bio-Recursive Entropy Collapse Protocol for Cancer Memory Loop Disruption  
+**Title:** Mneumocure™ v4: A Recursive Entropy Collapse System for Cancer Memory Eradication
 **Inventor:** Christopher Lamarr Brown (Breezon)  
 **Date of Disclosure:** August 2, 2025  
 **Contact:** NohMad.business@gmail.com  
